@@ -1,0 +1,17 @@
+.result {
+  margin-top: 33px !important;
+  padding: 10px !important;
+  font-size: 30px !important;
+  font-weight: bolder !important;
+  color: #d1041c;
+}
+
+.result h4 {
+  color: red;
+}
+.result__paper {
+  height: 200px !important;
+  width: 500px !important;
+  margin-left: 30% !important;
+  padding: 15px !important;
+}

@@ -1,0 +1,28 @@
+.welcome {
+  text-align: center !important;
+  align-items: center;
+}
+.welcome__header {
+  font-size: 70px;
+  font-weight: 800;
+  color: black;
+}
+.welcome__form {
+  margin-top: 20px !important;
+  padding: 10px;
+}
+.welcome__fname {
+  color: red;
+}
+
+.welcome__mname {
+  margin-right: 50px !important;
+  color: red !important;
+}
+.welcome__button {
+  margin-top: 30px !important;
+}
+.welcome__loading {
+  margin-left: 45%;
+  margin-top: 50px;
+}

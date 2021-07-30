@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+.App {
+  background-image: url("./image/wallpaperflare.com_wallpaper.jpg");
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  object-fit: contain;
+  font-family: "Merriweather", serif;
+}
