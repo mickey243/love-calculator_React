@@ -26,7 +26,7 @@ function Result({ data }) {
         <Paper className="result__paper" elevation={10}>
           <div className="result__sname">
             <Rotate top left cascade>
-              <h4>Yor : {data.sname}</h4>
+              <h4>You : {data.sname}</h4>
             </Rotate>
           </div>
           <div className="result__fname">
